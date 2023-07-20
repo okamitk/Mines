@@ -1,7 +1,7 @@
-# Python-Training
+# Mines and Treasures
 This is a repository to archive tests and little one-file projects.
 
-Mines - A very simple command line MS Mines-like minigame where you try to find a treasure.
+mines.py - A very simple command line MS Mines-like minigame where you try to find a treasure.
 
 	Your search is on a 19x9 board, where only one block stores a treasure (O).
   	You can use <1-9><space><1-19> to choose a block (█) to dig.
@@ -16,7 +16,7 @@ Mines - A very simple command line MS Mines-like minigame where you try to find 
 
    
 
-Campo Minado Tunado (kkkkk) - A versão PT-BR do minigame em linha de comando baseado no Campo Minado.
+campo_minado_tunado.py (kkkkk) - A versão PT-BR do minigame em linha de comando baseado no Campo Minado.
 	
  	A procura se dá num tabuleiro 19x9, em que somente um bloco (█) tem um tesouro (O).
   	Você pode usar <1-9><espaço><1-19> para escolher um bloco para cavar.
