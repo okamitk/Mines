@@ -1,7 +1,7 @@
 # Mines and Treasures
 This is a repository to archive tests and little one-file projects.
 
-mines.py - A very simple command line MS Mines-like minigame where you try to find a treasure.
+mines_and_treasures.py - A very simple command line MS Mines-like minigame where you try to find a treasure.
 
 	Your search is on a 19x9 board, where only one block stores a treasure (O).
   	You can use <1-9><space><1-19> to choose a block (█) to dig.
